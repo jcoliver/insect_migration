@@ -3,7 +3,7 @@
 #keatonwilson@me.com
 #2019-05-21
 #
-# remotes::install_github("ropensci/spocc", dependencies = TRUE, force = TRUE)
+#remotes::install_github("ropensci/spocc", dependencies = TRUE, force = TRUE)
 
 # Packages ----------------------------------------------------------------
 library(tidyverse)
